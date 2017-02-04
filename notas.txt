@@ -1,0 +1,29 @@
+Fronted //
+---------
+*
+top,left,bottom,right -> Position Relative
+
+*
+Por default un SPAN se muestra con DISPLAY:INLINE que es igual q los link
+Display-inline: te permite colocar cosas al costado de la otra
+La desventaja no te permite modificar ni el tamaño, el padding, ni el margin
+Solo permite modificar la posicion verticalmente.
+Si se desea cambiar eso se coloca DISPLAY:INLINE-BLOCK
+
+*
+Lo que podemos modificar cuando un elemento esta al lado del otro con INLINE-BLOCK
+es la alineacion vertical con VERTICAL-ALIGN: TOP (las cosas se alinean verticalmente
+hacia arriba) 
+
+*
+line-height -> El tamaño de la fuente se hace un poquito mas pequeña.
+
+*
+Centrar un elemento con WIDTH definido solo tenemos q usar MARGIN: 0 AUTO (Margen 
+a la izquierda y derecha automatico)
+
+*
+Los UL por default en el navegador agregan un padding de 40px a la izquierda
+
+
+
